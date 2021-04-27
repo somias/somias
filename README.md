@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🚀 Im a React Native (frontend) developer, With extensive 3 years of work experience as a Front-end developer.
+🚀 Im a React Native (frontend) developer, With extensive 2 years of work experience as a Front-end developer.
 Working with React, and currently developing mobile apps using React Native + Typescript + GraphQL. 
 I am passionate about functional programming and clean code with good patterns.
 
