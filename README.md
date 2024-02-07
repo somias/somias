@@ -1,22 +1,23 @@
 ### Hi there 👋
 
-🚀 Im a React Native (frontend) developer, With extensive 2.5 years of work experience as a Front-end developer.
-Working with React, and currently developing mobile apps using React Native + Typescript + GraphQL. 
-I am passionate about functional programming and clean code with good patterns.
+🚀 Extensive 4 years of work experience as a Front-end developer. Working with React, and currently developing
+mobile apps using React Native + (RN-CLI and also Expo) + Typescript. I have hands-on development experience
+- using a mix of technology and a flexible, creative approach to problem-solving and the ability to take technical
+ownership of solutions with respect to the development changes. I am a good team player with a passion for
+functional programming, clean code with good patterns and best practices.
 
 **Stack**:
  - JavaScript
  - React.js
  - React Native
  - TypeScript
- - GraphQL
-
-**Check out some cool apps I worked on**: 
- - [iWaaant.com](iwaaant.com)
- - [The Ticketing Co](https://theticketing.co/)
+ - Swift
+ - SwiftUI
+ - UIKit
+ - Shopify Liquid
 
 📫 **How to reach me ?**
-- Email: milos.savkovic.somias@gmail.com
+- Email: milos.savkovic.somias@gmail.com or misocar99@gmail.com
 - Skype: misocar99
 
 <!--
