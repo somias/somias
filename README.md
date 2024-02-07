@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 🚀 Extensive 4 years of work experience as a Front-end developer. Working with React, and currently developing
-mobile apps using React Native + (RN-CLI and also Expo) + Typescript. I have hands-on development experience
-- using a mix of technology and a flexible, creative approach to problem-solving and the ability to take technical
+mobile apps using React Native + (RN-CLI and also Expo) + Typescript. I have hands-on development experience 
+using a mix of technology and a flexible, creative approach to problem-solving and the ability to take technical
 ownership of solutions with respect to the development changes. I am a good team player with a passion for
 functional programming, clean code with good patterns and best practices.
 
