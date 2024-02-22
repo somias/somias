@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-🚀 Extensive 4 years of work experience as a Front-end developer. Working with React, and currently developing
-mobile apps using React Native + (RN-CLI and also Expo) + Typescript. I have hands-on development experience 
-using a mix of technology and a flexible, creative approach to problem-solving and the ability to take technical
-ownership of solutions with respect to the development changes. I am a good team player with a passion for
-functional programming, clean code with good patterns and best practices.
+🚀 I'm a software engineer based in Europe, Bosnia & Herzegovina.
+  With proven experience of making Web and Mobile apps. 
+  Worked with React, React Native + (RN-CLI and also Expo) + Typescript. 
+  Currently building websites with AstroJS and Shopify stores using Shopify Liquid. 
+  In my free time I'm building native iOS app using Swift, UIKit and SwiftUI.
+  I have hands-on development experience and I am a good team player with a passion for 
+  clean code with good patterns and best practices.
 
 **Stack**:
  - JavaScript
